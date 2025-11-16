@@ -6,6 +6,20 @@ Sou desenvolvedor C# / .NET com foco em criar soluções limpas, bem estruturada
 
 ---
 
+## 🏆 Cursos e Certificações
+
+Descrição   | Instituição   | Ano | Tipo
+--------- | --------- | ------ | ------
+🏅 Deal Group - AI Centric .NET | DIO | 2025 | Curso
+🏅 XP Inc. - Full Stack Developer | DIO | 2024 | Curso
+🏅 Configuração e Deploy na nuvem Microsoft Azure Cloud | DIO | 2025 | Certificado
+
+### 🌐 Redes sociais
+<div> 
+  <a href="https://www.instagram.com/richzuparelli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/angelo-macedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 ### 🛠️ Tecnologias e Ferramentas
 
 
@@ -97,5 +111,6 @@ Sou desenvolvedor C# / .NET com foco em criar soluções limpas, bem estruturada
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angellotz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+            
 
 </p>
