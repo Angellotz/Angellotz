@@ -2,8 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Sou desenvolvedor C# / .NET com foco em criar soluções limpas, bem estruturadas e orientadas a boas práticas. Atualmente curso Análise e Desenvolvimento de Sistemas na IBMR-RJ, e estou sempre aprimorando minhas habilidades construindo projetos reais.
-
+Sou desenvolvedor C# / .NET, com foco em criar soluções limpas, escaláveis e orientadas a boas práticas de arquitetura. Estudo Análise e Desenvolvimento de Sistemas (IBMR-RJ) e estou sempre evoluindo minhas habilidades através de projetos reais, explorando APIs, bancos de dados, padrões de projeto e boas práticas modernas do ecossistema .NET.
 ---
 
 ## 🏆 Cursos e Certificações
